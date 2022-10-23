@@ -7,7 +7,14 @@
 
 ## p5.js script should be added in index.html file.
 
-## ml5 script should also be added in index,html file.  
+p5.js link-https://p5js.org/get-started/
+
+## ml5 script should also be added in index,html file. 
+
+ml5 link-https://learn.ml5js.org/#/
+
+live demo- https://soumalla-tarafder.github.io/POSNET_USING_ML5.JS/
+
 
  
  
